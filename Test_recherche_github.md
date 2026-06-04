@@ -1,7 +1,4 @@
-# Notes de recherche
+## Mise à jour
 
-## Cours gestion de projets documentaires EBAD
-
-- Présentation du projet
-- Organisation des données
-- Planification des tâches
+- Première collecte de données terminée
+- Sauvegarde effectuée sur GitHub
